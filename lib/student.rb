@@ -8,5 +8,5 @@ class Student
         "Pick me!"
     end
 
-    
+
 end
